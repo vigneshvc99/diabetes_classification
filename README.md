@@ -1,2 +1,2 @@
-# diabetes_classification
+# Diabetes_Classification
 Diabetes Classification Using KNN Model
